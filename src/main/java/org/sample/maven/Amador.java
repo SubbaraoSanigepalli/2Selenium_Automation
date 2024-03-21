@@ -79,7 +79,7 @@ public class Amador
         
         XSSFRow headerRow = sheet1.createRow(0);
         headerRow.createCell(0).setCellValue("Designation");
-        headerRow.createCell(1).setCellValue("Name");
+        headerRow.createCell(1).setCellValue("Namaaae");
         headerRow.createCell(2).setCellValue("Email");
         
         String[] parts=null;
